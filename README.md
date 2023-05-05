@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://fantastic-shortbread-1e555c.netlify.app/)
+- Live Site URL: [https://fantastic-shortbread-1e555c.netlify.app/]
 
 ### Built with
 
@@ -40,12 +40,12 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - React framework
-- [tailwindcss](https://tailwindcss.com//) - CSS framework
+- [https://reactjs.org/] - React framework
+- [https://tailwindcss.com/] - CSS framework
 
 ### What I learned
 
-Synchronizing the operation of the 2 filter inputs (region and individual country) proved to be more difficult than I was expecting
+Synchronizing the operation of the 2 filter inputs (region and individual country) proved to be more difficult than I was expecting.
 There's still a minor bug with this in the project.  Used useRef and useEffect hooks to help with this - gained some experience with these.
 
 ### Continued development
