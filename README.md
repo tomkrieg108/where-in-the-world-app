@@ -28,10 +28,9 @@ Users should be able to:
 - Toggle the color scheme between light and dark mode *(optional)*
 
 
-
 ### Links
 
-- Live Site URL: [https://fantastic-shortbread-1e555c.netlify.app/]
+- [Live Site URL:](https://fantastic-shortbread-1e555c.netlify.app/)
 
 ### Built with
 
@@ -40,8 +39,8 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [https://reactjs.org/] - React framework
-- [https://tailwindcss.com/] - CSS framework
+- [React](https://reactjs.org) - React framework
+- [Tailwindcss](https://tailwindcss.com/) - CSS framework
 
 ### What I learned
 
