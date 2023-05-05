@@ -118,7 +118,7 @@ function CountryPage() {
             ) : (
               borderCountries.map((item)=> {
                 return (
-                  <Link  to={`/country/${item.cca3}`} key={item.cca3} className="px-2 py-2 dark:bg-darkBlue dark:border-gray-800 rounded-lg border-4">
+                  <Link  to={`/country/${item.cca3}`} key={item.cca3} className={`px-6 py-2  rounded-lg border-4 ${darkMode ? 'bg-darkBlue border-gray-800' : 'bg-white border-gray-200'} `}>
                     <p className="text-center text-sm">{item.name.common}</p>
                   </Link>
                 )
